@@ -1,0 +1,85 @@
+{
+   "episodes":[
+      {
+         "seasonNum":1,
+         "episodeNum":1,
+         "episodeTitle":"Winter Is Coming",
+         "episodeLink":"/title/tt1480055/",
+         "episodeAirDate":"2011-04-17",
+         "episodeDescription":"Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.",
+         "openingSequenceLocations":[
+            "King's Landing",
+            "Winterfell",
+            "The Wall",
+            "Pentos"
+         ],
+         "scenes":[
+            {
+               "sceneStart":"0:00:40",
+               "sceneEnd":"0:01:45",
+               "location":"The Wall",
+               "subLocation":"Castle Black",
+               "characters":[
+                  {"name":"Gared"},
+                  {"name":"Waymar Royce"},
+                  {"name":"Will"}
+               ]
+            },
+            {
+               "sceneStart":"0:01:45",
+               "sceneEnd":"0:03:24",
+               "location":"North of the Wall",
+               "subLocation":"The Haunted Forest",
+               "characters":[
+                  {"name":"Gared"},
+                  {"name":"Waymar Royce"},
+                  {"name":"Will"}
+               ]
+            }
+         ]
+      },
+      {
+         "seasonNum":1,
+         "episodeNum":2,
+         "episodeTitle":"The Kingsroad",
+         "episodeLink":"/title/tt1668746/",
+         "episodeAirDate":"2011-04-24",
+         "episodeDescription":"While Bran recovers from his fall, Ned takes only his daughters to King's Landing. Jon Snow goes with his uncle Benjen to The Wall. Tyrion joins them.",
+         "openingSequenceLocations":[
+            "King's Landing",
+            "Winterfell",
+            "The Wall",
+            "Vaes Dothrak"
+         ],
+         "scenes":[
+            {
+               "sceneStart":"0:02:22",
+               "sceneEnd":"0:05:28",
+               "location":"The Dothraki Sea",
+               "characters":[
+                  {"name":"Jorah Mormont"},
+                  {"name":"Daenerys Targaryen", "title":"Khaleesi"},
+                  {"name":"Khal Drogo", "title":"Khal"},
+                  {"name":"Viserys Targaryen"},
+                  {"name":"Doreah"},
+                  {"name":"Irri"},
+                  {"name":"Jhiqui"}
+               ]
+            },
+            {
+               "sceneStart":"0:05:28",
+               "sceneEnd":"0:07:05",
+               "location":"The North",
+               "subLocation":"Winterfell",
+               "characters":[
+                  {"name":"Tyrion Lannister"},
+                  {
+                     "name":"Joffrey Baratheon"
+                  },
+                  {"name":"Sandor Clegane"}
+               ]
+            }
+         ]
+      }
+   ]
+}
